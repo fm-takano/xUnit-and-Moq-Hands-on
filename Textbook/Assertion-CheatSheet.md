@@ -12,7 +12,7 @@ TODO:サンプルの用意
 |Empty|NotEmpty|コレクションが空か？|
 |Single||コレクションに一つだけ要素が含まれるか？|
 |Equal|NotEqual|同値か？（コレクションは全要素を比較）|
-|StrictEqual|NotStrictEqual|厳密な同値検証（EqualsとGetHashCodeのovverideが必要）|
+|StrictEqual|NotStrictEqual|厳密な同値検証（EqualsとGetHashCodeのoverrideが必要）|
 |Same|NotSame|同インスタンスか？|
 |Raises|RaisesAsync|イベントが発行されたか？|
 |RaisesAny|RaisesAnyAsync|Raisesと異なり、イベント引数が派生クラスでも可|
